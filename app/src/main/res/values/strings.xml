@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstantMailer</string>
+
+    <string name="title_activity_user_credentials">UserCredentials</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_user_registration">UserRegistration</string>
+</resources>
