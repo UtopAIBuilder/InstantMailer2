@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     {
             Message = messageEditText.getText().toString();
             Subject = subjectEditText.getText().toString();
-             new Mail(Subject,Message);
+            new Mail(Subject,Message);
             Intent intent=new Intent(this,MyTask.class);
             startActivity(intent);
 
